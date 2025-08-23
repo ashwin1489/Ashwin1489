@@ -57,7 +57,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api?username=Ashwin145&show_icons=true&locale=en&theme=radical&hide_border=true">
 
 
-[![ashwin7942's GitHub | Stats](https://stats.quine.sh/ashwin7942/github?theme=dark)](https://quine.sh)
-[![ashwin7942's GitHub | Topics Over Time](https://stats.quine.sh/ashwin7942/topics-over-time?theme=dark)](https://quine.sh)
-[![ashwin7942's GitHub | Languages Over Time](https://stats.quine.sh/ashwin7942/languages-over-time?theme=dark)](https://quine.sh)
 
