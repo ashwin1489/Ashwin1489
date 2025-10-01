@@ -39,7 +39,7 @@
 
 <div align="center">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin1489&theme=radical&hide_border=true" /></div>
 
-<div align="center"> ![Ashwin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashwin1489&theme=radical&hide_border=true)</div>
+<div align="center"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=ashwin1489&theme=radical&hide_border=true"</div>
 
 
 
