@@ -40,6 +40,8 @@
   
   <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/68b23a55-1aba-48d7-b2a1-653aa9af9fe2" alt="Android Studio" width="40" height="40"/>  
 
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashwin1489&show_icons=true&locale=en&theme=radical&hide_border=true">
+
 </div>
 
 
