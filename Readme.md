@@ -31,9 +31,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ashwin1489&show_icons=true&locale=en&theme=radical&hide_border=true" alt="ashwin1489" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin1489&theme=radical&hide_border=true" alt="streak stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin1489&layout=compact&theme=radical&hide_border=true" />
 
 </p>
+<div>    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin1489&layout=compact&theme=radical&hide_border=true" />
+</div>
 
 ---
 
