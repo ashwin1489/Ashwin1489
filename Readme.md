@@ -54,7 +54,6 @@ Ashwin145/Ashwin145 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashwin145&show_icons=true&locale=en&theme=radical&hide_border=true">
 
 ![Snake animation](https://github.com/ashwin1489/ashwin1489/blob/output/snake.svg)
 
